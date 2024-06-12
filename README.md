@@ -1,6 +1,5 @@
 <h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://www.instagram.com/eeymatheusmaria/"><img src="https://img.shields.io/badge/-@eeymatheusmaria_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheus-willian-bento-17a768269/"><img src="https://img.shields.io/badge/-Matheus%20Willian%20Bento-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:los.matheuswb@gmail.com"><img src="https://img.shields.io/badge/-los.matheuswb@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
