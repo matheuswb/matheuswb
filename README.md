@@ -8,11 +8,11 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Apaixonado por tecnologia desde a minha infância, com apenas 13 anos após me destacar em um curso fui trabalhar em uma Lan House, que foi a porta de entrada para os meus aprendizados e experiências.
-Cursei Ciências da Computação na UNIP de Ribeirão Preto, nesse período consegui um estágio de Infraestrutura na Consinco by TOTVS no qual teve duração de um ano, com o termino do contrato realizei o processo de mudança para a área de desenvolvimento. Portanto, a empresa me proporcionou essa trilha de carreira.
-A experiência no desenvolvimento me trouxe conhecimentos de ERP em especial nos setores varejista e atacadista, e na programação a experiência na linguagem de programação Centura e banco de dados Oracle.
+Cursei Ciências da Computação na UNIP de Ribeirão Preto, nesse período consegui um estágio de Infraestrutura na Consinco by TOTVS no qual teve duração de um ano, com o termino do contrato realizei um processo de mudança para a área de desenvolvimento. 
+A experiência no desenvolvimento me trouxe conhecimentos de ERP (setores varejista e atacadista) e na linguagem de programação Centura com banco de dados Oracle.
 Atualmente estou na empresa Simus onde desenvolvo em Delphi com banco de dados Oracle e PostgreSQL.
-- 🚀 &nbsp; Meu sonho e meu objetivo é atuar como desenvolvedor Full Stack, onde atualmente estou dedicando os meus estudos ao React e ao Node!
-- 💚 &nbsp; Meus hobbies favoritos são: praticar esportes, viajar e desenhar!
+- 🚀 &nbsp; Meu sonho/objetivo é atuar como desenvolvedor Full Stack, onde atualmente estou dedicando os meus estudos ao React e ao Node!
+- 💚 &nbsp; Meus hobbies favoritos são: praticar esportes, jogar FIFA, viajar, ler e desenhar!
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
